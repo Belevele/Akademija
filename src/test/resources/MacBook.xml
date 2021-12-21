@@ -1,0 +1,6 @@
+<models.ShopItem>
+  <name>MacBook</name>
+  <price>$602</price>
+  <brand>Apple</brand>
+  <productCode>product 16</productCode>
+</models.ShopItem>
